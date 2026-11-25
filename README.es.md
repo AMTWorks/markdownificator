@@ -1,4 +1,4 @@
-# Markdownificator
+# Markdownificator (Word to MD)
 
 [English](README.md) · **Español**
 
